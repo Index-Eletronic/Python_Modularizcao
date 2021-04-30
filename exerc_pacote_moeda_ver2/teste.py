@@ -1,8 +1,6 @@
 '''
-Modifique as funções que form criadas no desafio 107 para que elas aceitem um parâmetro a mais,
-informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida no desafio 108.
-
-
+Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada
+leiaDinheiro() que seja capaz de funcionar como a função imputa(), mas com uma validação de dados para aceitar apenas valores que seja monetários.
 '''
 
 from exerc_pacote_moeda_ver1.utilidades import moeda
