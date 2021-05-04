@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (Python_Modularizcao)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="calculadora" />
+    <orderEntry type="module" module-name="Python3_Funcoes" />
+    <orderEntry type="module" module-name="Python3" />
   </component>
 </module>
