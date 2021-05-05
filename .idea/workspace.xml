@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9804d093-8f77-478b-bf61-b64cb8f91cdd" name="Default Changelist" comment=".">
+      <change beforePath="$USER_HOME$/Documents/GitHub/calculadora/calc.py" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/calculadora/calc.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/GitHub/calculadora/funcoes.py" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/calculadora/funcoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +36,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/calculadora" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Python2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -366,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620168226237</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=".">
+      <created>1620215318030</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620215318030</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

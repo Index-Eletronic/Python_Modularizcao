@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$USER_HOME$/Documents/GitHub/Python2" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/GitHub/Python3" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/GitHub/Python3_Funcoes" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/GitHub/calculadora" vcs="Git" />
