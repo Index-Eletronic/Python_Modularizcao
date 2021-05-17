@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9804d093-8f77-478b-bf61-b64cb8f91cdd" name="Default Changelist" comment=".">
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_Sistema_Completo/.idea/115.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_Sistema_Completo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_Sistema_Completo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_Sistema_Completo/lib/interface/__init__.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_Sistema_Completo/sistema.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_trata_erros/.idea/Python3_trata_erros.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_trata_erros/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_trata_erros/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_trata_erros/trata_erro_Site.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_trata_erros/trata_erro_exer_leiaint().py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/Python3_trata_erros/trata_erro_explicacao.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Documents/GitHub/calculadora/funcoes.py" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/calculadora/funcoes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/115/.idea/115.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/115/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/115/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/115/lib/interface/__init__.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/115/sistema.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -423,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620326104289</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary=".">
+      <created>1621293873353</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1621293873353</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,6 +436,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$USER_HOME$/Documents/GitHub/Python3_Sistema_Completo" />
+    </ignored-roots>
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
