@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9804d093-8f77-478b-bf61-b64cb8f91cdd" name="Default Changelist" comment=".">
-      <change afterPath="$USER_HOME$/Documents/GitHub/115/lib/arquivo/__init__.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/115/lib/cursoemvideo.txt" afterDir="false" />
       <change beforePath="$USER_HOME$/Documents/GitHub/115/lib/sistema.py" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/115/lib/sistema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
