@@ -6,6 +6,7 @@
     <mapping directory="$USER_HOME$/Documents/GitHub/Python3" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/GitHub/Python3_Funcoes" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/GitHub/Python3_trata_erros" vcs="Git" />
+    <mapping directory="$USER_HOME$/Documents/GitHub/python_mysql" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
