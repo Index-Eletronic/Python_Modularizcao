@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9804d093-8f77-478b-bf61-b64cb8f91cdd" name="Default Changelist" comment=".">
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/.idea/python_mysql.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc2.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc3.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc4.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc5.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc6.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/lista_exer_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc7/__init__.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc7/exerc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/GitHub/python_mysql" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/GitHub/115" />
   </component>
   <component name="ProjectId" id="1rrWpcM9SmyJ46TLLjMJaqeKcX4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,7 +49,28 @@
       <recent name="C:\Users\Acer\Documents\GitHub\tkinter\principal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exerc6">
+  <component name="RunManager" selected="Python.__init__ (1)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_mysql" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc7/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="calculadora" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,27 +84,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/calculadora/funcoes/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exerc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_mysql" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__ (1)" />
         <item itemvalue="Python.exerc6" />
         <item itemvalue="Python.exerc5" />
         <item itemvalue="Python.exerc4" />
         <item itemvalue="Python.exerc3" />
-        <item itemvalue="Python.exerc2" />
       </list>
     </recent_temporary>
   </component>
@@ -478,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621546889387</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=".">
+      <created>1621813733754</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1621813733754</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
