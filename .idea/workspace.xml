@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9804d093-8f77-478b-bf61-b64cb8f91cdd" name="Default Changelist" comment=".">
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/conecao/Primeira.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/conecao/__init__.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc8/__init__.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc8/exerc8.py" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc8/texte.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/_mysql.cp39-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/connections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/CLIENT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/CR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/ER.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/FIELD_TYPE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/FLAG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/converters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/cursors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/release.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MySQLdb/times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysql-0.0.3.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysql-0.0.3.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysql-0.0.3.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysql-0.0.3.dist-info/REQUESTED" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysql-0.0.3.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysql-0.0.3.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.3.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.3.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.3.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.3.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.3.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mysqlclient-2.0.3.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/GitHub/python_mysql/conecao/Primeira.py" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/python_mysql/conecao/Primeira.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -511,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621895321461</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary=".">
+      <created>1622740651622</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1622740651622</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
