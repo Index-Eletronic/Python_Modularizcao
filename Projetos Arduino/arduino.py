@@ -6,7 +6,7 @@ PORTA = "COM4"
 
 arduino = pyfirmata.Arduino(PORTA)
 led = arduino.get_pin('d:13:o')
-ms1 = arduino.get_pin('d:9:o') # A1s
+ms1 = arduino.get_pin('d:9:o') # A1
 ms2 = arduino.get_pin('d:10:o') # A2
 ms3 = arduino.get_pin('d:11:o') # B1
 ms4 = arduino.get_pin('d:12:o') # b2
