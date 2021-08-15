@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Documents/GitHub/115/.idea/115.iml" filepath="$USER_HOME$/Documents/GitHub/115/.idea/115.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/.idea/GitHub.iml" filepath="$USER_HOME$/Documents/GitHub/.idea/GitHub.iml" />
       <module fileurl="file://$USER_HOME$/Documents/GitHub/Python2/.idea/Python2.iml" filepath="$USER_HOME$/Documents/GitHub/Python2/.idea/Python2.iml" />
       <module fileurl="file://$USER_HOME$/Documents/GitHub/Python3/.idea/Python3.iml" filepath="$USER_HOME$/Documents/GitHub/Python3/.idea/Python3.iml" />
       <module fileurl="file://$USER_HOME$/Documents/GitHub/Python3_Funcoes/.idea/Python3_Funcoes.iml" filepath="$USER_HOME$/Documents/GitHub/Python3_Funcoes/.idea/Python3_Funcoes.iml" />
       <module fileurl="file://$USER_HOME$/Documents/GitHub/Python3_trata_erros/.idea/Python3_trata_erros.iml" filepath="$USER_HOME$/Documents/GitHub/Python3_trata_erros/.idea/Python3_trata_erros.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_Modularizcao.iml" filepath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" />
       <module fileurl="file://$USER_HOME$/Documents/GitHub/calculadora/.idea/calculadora.iml" filepath="$USER_HOME$/Documents/GitHub/calculadora/.idea/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../dev/kivy/.idea/kivy.iml" filepath="$PROJECT_DIR$/../../../../dev/kivy/.idea/kivy.iml" />
       <module fileurl="file://$USER_HOME$/Documents/GitHub/python_mysql/.idea/python_mysql.iml" filepath="$USER_HOME$/Documents/GitHub/python_mysql/.idea/python_mysql.iml" />
     </modules>
   </component>

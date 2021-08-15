@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9804d093-8f77-478b-bf61-b64cb8f91cdd" name="Default Changelist" comment=".">
-      <change beforePath="$USER_HOME$/Documents/GitHub/calculadora/planejados.py" beforeDir="false" afterPath="$USER_HOME$/Documents/GitHub/calculadora/planejados.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/COLLECT-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/EXE-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/PKG-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/Tree-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/Tree-01.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/Tree-02.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/base_library.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/funcoes.exe" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/funcoes.exe.manifest" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/warn-funcoes.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/funcoes/xref-funcoes.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/COLLECT-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/EXE-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/PKG-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/Tree-00.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/Tree-01.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/Tree-02.toc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/base_library.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/planejados.exe" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/planejados.exe.manifest" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/warn-planejados.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/build/planejados/xref-planejados.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/funcoes.spec" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/GitHub/calculadora/planejados.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Modularizcao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/GitHub/calculadora" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/GitHub/115" />
   </component>
   <component name="ProjectId" id="1rrWpcM9SmyJ46TLLjMJaqeKcX4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,7 +81,7 @@
       <recent name="C:\Users\Acer\Documents\GitHub\calculadora\index" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.planejados">
+  <component name="RunManager" selected="Python.arduino">
     <configuration name="Primeira" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_mysql" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,27 +95,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/python_mysql/conecao/Primeira.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_mysql" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc7/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,19 +124,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exerc6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_mysql" />
+    <configuration name="arduino" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GitHub" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Acer\Documents\GitHub\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/arduino.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/calculadora" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc6.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/calculadora/calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,6 +179,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/python_mysql/exercicios/exerc8/exerc8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exerc_lista2_Megasena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/Python3/exerc_lista2_Megasena.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exerc_lista2_Megasena" />
         <item itemvalue="Python.planejados" />
+        <item itemvalue="Python.calc" />
         <item itemvalue="Python.Primeira" />
         <item itemvalue="Python.exerc8" />
-        <item itemvalue="Python.__init__ (1)" />
-        <item itemvalue="Python.exerc6" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +556,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623675866756</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary=".">
+      <created>1623685309495</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1623685309495</updated>
+    </task>
+    <task id="LOCAL-00037" summary=".">
+      <created>1623692435018</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1623692435018</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

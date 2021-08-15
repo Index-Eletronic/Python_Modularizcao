@@ -13,5 +13,7 @@
     <orderEntry type="module" module-name="115" />
     <orderEntry type="module" module-name="python_mysql" />
     <orderEntry type="module" module-name="calculadora" />
+    <orderEntry type="module" module-name="kivy" />
+    <orderEntry type="module" module-name="GitHub" />
   </component>
 </module>
