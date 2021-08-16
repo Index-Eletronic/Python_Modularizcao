@@ -50,3 +50,4 @@ btstop.grid(row=0, column=2)
 
 janela.mainloop()
 
+
